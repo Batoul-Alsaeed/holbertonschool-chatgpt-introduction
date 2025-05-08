@@ -37,6 +37,17 @@ This project is part of the Holberton School curriculum and focuses on enhancing
 - Added tie condition
 - Improved overall game experience
 
+## 🤖 Bonus: Applying Automation Concepts with ChatGPT
+
+Although this project didn't include dedicated tasks for the "Automation" section, I proactively applied the concepts using ChatGPT in the following ways:
+
+- Generated clean and structured boilerplate code faster
+- Used AI to create and polish docstrings for better documentation
+- Automated the formatting and logic review of Python functions
+- Reduced manual testing effort by simulating edge cases with ChatGPT guidance
+
+This approach significantly improved my coding workflow and gave me a better understanding of how AI can enhance everyday development tasks.
+
 ## 👩‍💻 Author
 
 This project was completed by **Batoul-Alsaeed** 💻  
